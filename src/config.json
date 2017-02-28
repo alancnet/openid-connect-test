@@ -1,0 +1,4 @@
+{
+  "configUrl": "https://accounts-dev.athlinks.com/auth/realms/athlinks/.well-known/openid-configuration",
+  "clientId": "openid-connect-test"
+}
